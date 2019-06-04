@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072832934646",
+    "firebase_url": "https://myplace-5b004.firebaseio.com",
+    "project_id": "myplace-5b004",
+    "storage_bucket": "myplace-5b004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072832934646:android:be5ccc8cf47c35a3",
+        "android_client_info": {
+          "package_name": "com.napas.myplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072832934646-g1jorvrd6e0dba4dnchafh2hhp0c202r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTEWDSIUQigiaH3FCdo5gAm-40ngdtPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072832934646-g1jorvrd6e0dba4dnchafh2hhp0c202r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
